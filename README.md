@@ -1,5 +1,7 @@
 **Streamlit app link**:https://random-forest-cdcb97ymrzcea5bj76bz7v.streamlit.app/
+
 **🏦 Loan Approval Prediction using Random Forest**
+
 📘 Overview
 
 This project predicts whether a loan application will be approved or not using a Random Forest Classifier.
@@ -7,6 +9,7 @@ It analyzes applicant details such as income, education, credit history, and emp
 The system can also calculate the probability of approval for new applicants based on their inputs.
 
 **⚙️ Features Used**
+
 Feature	Description
 person_age	Age of the applicant
 person_gender	Gender (male or female)
@@ -22,6 +25,7 @@ cb_person_cred_hist_length	Credit history length in years
 credit_score	Credit score of the applicant
 previous_loan_defaults_on_file	Indicates if any previous loan default occurred (Yes or No)
 Target Variable – loan_status	Represents whether the loan was approved (1) or rejected (0)
+
 **🧠 Model Used**
 
 Random Forest Classifier – a machine learning ensemble technique that combines multiple decision trees to improve accuracy and reduce overfitting.
